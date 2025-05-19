@@ -12,7 +12,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your KANGO-XMD session id here; must start with KANGO~",
-      "value": "",
+      "value": "KANGO~Uq0QhRTK#jq4OxmMcIFV_05UVB87v5L2vJ5VWSedv0d0AeEpv-WA",
       "required": false
     },
     "BOT_NAME": {
@@ -22,12 +22,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "value": "256744111341",
       "required": true
     },
     "OWNER_NAME": {
       "description": "owner name",
-      "value": "",
+      "value": "Ian Joel",
       "required": true
     },
     "STICKER_PACK_NAME": {
@@ -52,7 +52,7 @@
     },
     "TIMEZONE": {
       "description": "Enter your timezone here. Google or don't edit if you don't know!",
-      "value": "Africa/Accra",
+      "value": "Africa/Kampala",
       "required": false
     },
    "GITHUB_TOKEN": {

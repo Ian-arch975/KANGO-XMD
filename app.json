@@ -12,7 +12,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your KANGO-XMD session id here; must start with KANGO~",
-      "value": "KANGO~Uq0QhRTK#jq4OxmMcIFV_05UVB87v5L2vJ5VWSedv0d0AeEpv-WA",
+      "value": "KANGO~Azl3gDaA#jyM3zvWfCk-3TgdtjXUKjDdZC19o5tAFyhoZYWtbH1g",
       "required": false
     },
     "BOT_NAME": {
